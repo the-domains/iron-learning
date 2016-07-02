@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-02T21:05:56.780Z'
+datePublished: '2016-07-02T21:08:08.013Z'
 sourcePath: _posts/2016-07-02-when-most-here-the-word-philosopher-guys-like-aristotle.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-02T21:05:46.694Z'
+dateModified: '2016-07-02T21:07:59.093Z'
 title: The Philosophy of Getting Older
 publisher: null
 description: >-
