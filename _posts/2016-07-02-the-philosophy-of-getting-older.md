@@ -3,8 +3,8 @@ description: >-
   When most here the word "philosopher," guys like Aristotle, Socrates, and
   Plato come to mind. But I would argue that philosophers are people who give
   sage advice.
-dateModified: '2016-07-03T01:24:20.909Z'
-datePublished: '2016-07-03T01:24:26.622Z'
+dateModified: '2016-07-03T01:26:04.792Z'
+datePublished: '2016-07-03T01:26:18.466Z'
 title: The Philosophy of Getting Older
 author: []
 sourcePath: _posts/2016-07-02-the-philosophy-of-getting-older.md
@@ -25,9 +25,7 @@ When most here the word "philosopher," guys like Aristotle, Socrates, and Plato 
 
 Sometimes, these philosophers that the form of musicians, poets, and artists. In this case, Lukas Graham gives a timeless view of getting older with a focus on what's important. Take a few minutes out of your day to watch and listen.
 
-[https://www.youtube.com/watch?v=LHCob76kigA][0]
-
-In case you want to read the lyrics, you can find them here:
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FLHCob76kigA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLHCob76kigA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLHCob76kigA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 In case you want to read the lyrics, you can find them here:
 
@@ -89,5 +87,3 @@ Soon I'll be sixty years old
 Once I was seven years old, momma told me  
 Go make yourself some friends or you'll be lonely  
 Once I was seven years old
-
-[0]: https://www.youtube.com/watch?v=LHCob76kigA "7 Years"
