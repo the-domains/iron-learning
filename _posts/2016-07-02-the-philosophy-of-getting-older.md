@@ -3,8 +3,8 @@ description: >-
   When most here the word "philosopher," guys like Aristotle, Socrates, and
   Plato come to mind. But I would argue that philosophers are people who give
   sage advice.
-dateModified: '2016-07-03T01:39:04.233Z'
-datePublished: '2016-07-03T01:39:07.100Z'
+dateModified: '2016-07-05T21:54:55.199Z'
+datePublished: '2016-07-05T21:55:09.751Z'
 title: The Philosophy of Getting Older
 author: []
 sourcePath: _posts/2016-07-02-the-philosophy-of-getting-older.md
