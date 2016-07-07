@@ -1,20 +1,4 @@
-name: Iron Learning
-favicon: null
-layout_spectrum: 0.607583139790222
 typography_spectrum: 0.6200982863083482
-title: Live a life less ordinary
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#2C3E50'
@@ -26,4 +10,20 @@ color:
   lightness: 0.8939835876226425
   saturation: 0.5543119658250362
   rhythmicContrast: 0.38367794547230005
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.607583139790222
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Iron Learning
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ''
 purpose: []
